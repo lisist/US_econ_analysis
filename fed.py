@@ -17,3 +17,21 @@ def fdasset(start_date, end_date):
     asset = web.DataReader('WALCL','fred',start_date, end_date)
 
     return asset
+
+def sp2y10y(start_date, end_date):
+    spread = web.DataReader('T10Y2Y','fred',start_date, end_date)
+
+    return spread
+
+def ip(start_date, end_date):
+    industrial_production = web.DataReader('INDPRO','fred',start_date,end_date)
+
+    return industrial_production
+
+def yoych(data,freq = 'm'):
+    ## Calculate Year over Year changes
+    
+    yoy = (data-data.shift(12))/data.shift(12)
+    yoy.dropna(axis=0,inplace=True)
+
+    return yoy
