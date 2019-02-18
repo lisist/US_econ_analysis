@@ -26,4 +26,4 @@ def sp2y10y(start_date, end_date):
 def ip(start_date, end_date):
     industrial_production = web.DataReader('INDPRO','fred',start_date,end_date)
 
-    return industrial_productio
+    return industrial_production
