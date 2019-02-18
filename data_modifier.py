@@ -45,3 +45,9 @@ def mom(data, freq='m'):
     mom_ch.dropna(axis=0, inplace=True)
 
     return mom_ch
+
+def monthly(data):
+    monthly_data = data.groupby('month').first()
+
+    return monthly_data
+
