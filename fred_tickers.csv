@@ -1,0 +1,722 @@
+,Name,ticker
+0,10-Year Treasury Constant Maturity Minus 2-Year Treasury Constant Maturity,T10Y2Y
+1,Real Gross Domestic Product,GDPC1
+2,Consumer Price Index for All Urban Consumers: All Items,CPIAUCSL
+3,Effective Federal Funds Rate,FEDFUNDS
+4,10-Year Treasury Constant Maturity Rate,DGS10
+5,Civilian Unemployment Rate,UNRATE
+6,Gross Domestic Product,GDP
+7,ICE BofAML US High Yield Master II Option-Adjusted Spread,BAMLH0A0HYM2
+8,"3-Month London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USD3MTD156N
+9,3-Month Treasury Bill: Secondary Market Rate,TB3MS
+10,S&P/Case-Shiller U.S. National Home Price Index,CSUSHPINSA
+11,M2 Money Stock,M2
+12,10-Year Treasury Constant Maturity Minus 3-Month Treasury Constant Maturity,T10Y3M
+13,"1-Month London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USD1MTD156N
+14,Real Median Household Income in the United States,MEHOINUSA672N
+15,10-Year Breakeven Inflation Rate,T10YIE
+16,Moody's Seasoned Aaa Corporate Bond Yield,AAA
+17,St. Louis Adjusted Monetary Base,BASE
+18,All Employees: Total Nonfarm Payrolls,PAYEMS
+19,All Employees: Total Nonfarm Payrolls,PAYNSA
+20,S&P 500,SP500
+21,"Crude Oil Prices: West Texas Intermediate (WTI) - Cushing, Oklahoma",DCOILWTICO
+22,TED Spread,TEDRATE
+23,Industrial Production Index,INDPRO
+24,St. Louis Fed Financial Stress Index,STLFSI
+25,Moody's Seasoned Baa Corporate Bond Yield,BAA
+26,M1 Money Stock,M1
+27,"Trade Weighted U.S. Dollar Index: Broad, Goods",TWEXB
+28,Federal Debt: Total Public Debt as Percent of Gross Domestic Product,GFDEGDQ188S
+29,30-Year Fixed Rate Mortgage Average in the United States,MORTGAGE30US
+30,All Federal Reserve Banks: Total Assets,WALCL
+31,Velocity of M2 Money Stock,M2V
+32,Personal Consumption Expenditures,PCE
+33,1-Year Treasury Constant Maturity Rate,DGS1
+34,U.S. / Euro Foreign Exchange Rate,DEXUSEU
+35,"5-Year, 5-Year Forward Inflation Expectation Rate",T5YIFR
+36,Leading Index for the United States,USSLIND
+37,2-Year Treasury Constant Maturity Rate,DGS2
+38,Real Personal Consumption Expenditures,PCEC96
+39,ICE BofAML US High Yield Master II Effective Yield,BAMLH0A0HYM2EY
+40,"Trade Weighted U.S. Dollar Index: Major Currencies, Goods",DTWEXM
+41,"Trade Weighted U.S. Dollar Index: Major Currencies, Goods",TWEXM
+42,Housing Starts: Total: New Privately Owned Housing Units Started,HOUST
+43,5-Year Treasury Constant Maturity Rate,DGS5
+44,"10-Year Treasury Inflation-Indexed Security, Constant Maturity",DFII10
+45,Personal Saving Rate,PSAVERT
+46,Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index),PCEPILFE
+47,University of Michigan: Consumer Sentiment,UMCSENT
+48,ICE BofAML US Corporate BBB Option-Adjusted Spread,BAMLC0A4CBBB
+49,S&P/Case-Shiller 20-City Composite Home Price Index,SPCS20RSA
+50,Consumer Price Index: Total All Items for the United States,CPALTT01USQ657N
+51,Civilian Labor Force Participation Rate,CIVPART
+52,"Commercial and Industrial Loans, All Commercial Banks",BUSLOANS
+53,"Interest Rates, Discount Rate for United States",INTDSRUSM193N
+54,Average Hourly Earnings of All Employees: Total Private,CES0500000003
+55,Gross Domestic Product: Implicit Price Deflator,GDPDEF
+56,30-Year Treasury Constant Maturity Rate,DGS30
+57,Federal Debt: Total Public Debt,GFDEBTN
+58,Consumer Price Index for All Urban Consumers: All Items Less Food and Energy,CPILFESL
+59,"Producer Price Index by Commodity for Pulp, Paper, and Allied Products: Wood Pulp",WPU0911
+60,"Producer Price Index by Commodity for Pulp, Paper, and Allied Products: Wood Pulp",WPS0911
+61,Smoothed U.S. Recession Probabilities,RECPROUSM156N
+62,Dow Jones Industrial Average,DJIA
+63,Real gross domestic product per capita,A939RX0Q048SBEA
+64,Moody's Seasoned Baa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,BAA10Y
+65,China / U.S. Foreign Exchange Rate,DEXCHUS
+66,Household Debt to GDP for United States,HDTGPDUSQ163N
+67,All-Transactions House Price Index for the United States,USSTHPI
+68,Federal Funds Target Range - Upper Limit,DFEDTARU
+69,ICE BofAML US Corporate BBB Effective Yield,BAMLC0A4CBBBEY
+70,Personal Consumption Expenditures: Chain-type Price Index,PCEPI
+71,Crude Oil Prices: Brent - Europe,DCOILBRENTEU
+72,Total Vehicle Sales,TOTALSA
+73,CBOE Volatility Index: VIX,VIXCLS
+74,"Delinquency Rate on Single-Family Residential Mortgages, Booked in Domestic Offices, All Commercial Banks",DRSFRMACBS
+75,Real Disposable Personal Income,DSPIC96
+76,"Gold Fixing Price 10:30 A.M. (London time) in London Bullion Market, based in U.S. Dollars",GOLDAMGBD228NLBM
+77,Real Potential Gross Domestic Product,GDPPOT
+78,U.S. Treasury securities held by the Federal Reserve: All Maturities,TREAST
+79,Federal Surplus or Deficit [-],FYFSD
+80,Bank Prime Loan Rate,MPRIME
+81,Household Debt Service Payments as a Percent of Disposable Personal Income,TDSP
+82,Natural Rate of Unemployment (Long-Term),NROU
+83,10-Year Treasury Constant Maturity Minus Federal Funds Rate,T10YFF
+84,4-Week Moving Average of Initial Claims,IC4WSA
+85,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over,LES1252881600Q
+86,"12-Month London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USD12MD156N
+87,Working Age Population: Aged 15-64: All Persons for the United States,LFWA64TTUSM647S
+88,Working Age Population: Aged 15-64: All Persons for the United States,LFWA64TTUSQ647N
+89,ICE BofAML US High Yield CCC or Below Option-Adjusted Spread,BAMLH0A3HYC
+90,1-Month Treasury Constant Maturity Rate,DGS1MO
+91,ICE BofAML US Corporate Master Option-Adjusted Spread,BAMLC0A0CM
+92,Japan / U.S. Foreign Exchange Rate,DEXJPUS
+93,Producer Price Index for All Commodities,PPIACO
+94,ICE BofAML US High Yield Master II Total Return Index Value,BAMLHYH0A0HYM2TRIV
+95,Excess Reserves of Depository Institutions,EXCSRESNS
+96,Federal Surplus or Deficit [-] as Percent of Gross Domestic Product,FYFSGDA188S
+97,Gross Private Domestic Investment,GPDI
+98,NBER based Recession Indicators for the United States from the Period following the Peak through the Trough,USREC
+99,Monthly Supply of Houses in the United States,MSACSR
+100,Homeownership Rate for the United States,RHORUSQ156N
+101,Initial Claims,ICSA
+102,Stock Market Capitalization to GDP for United States,DDDM01USA156NWDB
+103,Real Median Personal Income in the United States,MEPAINUSA672N
+104,Average Hourly Earnings of Production and Nonsupervisory Employees: Total Private,AHETPI
+105,GINI Index for the United States,SIPOVGINIUSA
+106,Corporate Profits After Tax (without IVA and CCAdj),CP
+107,"Inflation, consumer prices for the United States",FPCPITOTLZGUSA
+108,New Private Housing Units Authorized by Building Permits,PERMIT
+109,Unemployment Rate for United States,M0892AUSM156SNBR
+110,3-Month Treasury Constant Maturity Rate,DGS3MO
+111,Unemployment Rate: 20 years and over,LNS14000024
+112,"Delinquency Rate on Credit Card Loans, All Commercial Banks",DRCCLACBS
+113,"Delinquency Rate on Credit Card Loans, All Commercial Banks",DRCCLACBN
+114,20-Year Treasury Constant Maturity Rate,DGS20
+115,Capacity Utilization: Total Industry,TCU
+116,Federal government current tax receipts,W006RC1Q027SBEA
+117,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United States,IRLTLT01USM156N
+118,Unemployment Level,UNEMPLOY
+119,"6-Month London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USD6MTD156N
+120,"Nonfinancial corporate business; debt securities; liability, Level",NCBDBIQ027S
+121,Velocity of M1 Money Stock,M1V
+122,Real Disposable Personal Income: Per Capita,A229RX0
+123,Median Sales Price of Houses Sold for the United States,MSPUS
+124,ICE BofAML US High Yield BB Effective Yield,BAMLH0A1HYBBEY
+125,5-Year Breakeven Inflation Rate,T5YIE
+126,ICE BofAML US High Yield BB Option-Adjusted Spread,BAMLH0A1HYBB
+127,3-Year Treasury Constant Maturity Rate,DGS3
+128,ICE BofAML US High Yield CCC or Below Effective Yield,BAMLH0A3HYCEY
+129,Monetary Base; Total,BOGMBASE
+130,Light Weight Vehicle Sales: Autos and Light Trucks,ALTSALES
+131,Canada / U.S. Foreign Exchange Rate,DEXCAUS
+132,"Total Consumer Credit Owned and Securitized, Outstanding",TOTALSL
+133,All Employees: Manufacturing,MANEMP
+134,Producer Price Index by Commodity for Metals and Metal Products: Cold Rolled Steel Sheet and Strip,WPU101707
+135,Median Sales Price for New Houses Sold in the United States,MSPNHSUS
+136,"Gold Fixing Price 3:00 P.M. (London time) in London Bullion Market, based in U.S. Dollars",GOLDPMGBD228NLBM
+137,"Total unemployed, plus all marginally attached workers plus total employed part time for economic reasons",U6RATE
+138,"FOMC Summary of Economic Projections for the Fed Funds Rate, Median",FEDTARMD
+139,Gross National Product,GNP
+140,U.S. / U.K. Foreign Exchange Rate,DEXUSUK
+141,Wilshire 5000 Total Market Full Cap Index,WILL5000INDFC
+142,10-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB10YR
+143,Chicago Fed National Financial Conditions Index,NFCI
+144,Nonfarm Business Sector: Real Output Per Hour of All Persons,OPHNFB
+145,ICE BofAML US Corporate AAA Effective Yield,BAMLC0A1CAAAEY
+146,Existing Home Sales,EXHOSLUSM495S
+147,Net Exports of Goods and Services,NETEXP
+148,Dates of U.S. recessions as inferred by GDP-based recession indicator,JHDUSRGDPBR
+149,ICE BofAML Euro High Yield Index Effective Yield,BAMLHE00EHYIEY
+150,University of Michigan: Inflation Expectation,MICH
+151,Civilian Employment-Population Ratio,EMRATIO
+152,3-Month or 90-day Rates and Yields: Bank Bills for Australia,IR3TBB01AUQ156N
+153,Currency Component of M1,CURRSL
+154,Civilian Labor Force Participation Rate: 25 to 54 years,LNS11300060
+155,M1 Money Multiplier,MULT
+156,7-Year Treasury Constant Maturity Rate,DGS7
+157,E-Commerce Retail Sales as a Percent of Total Sales,ECOMPCTSA
+158,1-Year Treasury Bill: Secondary Market Rate,TB1YR
+159,"Total Assets, All Commercial Banks",TLAACBW027SBOG
+160,S&P/Case-Shiller CA-San Francisco Home Price Index,SFXRSA
+161,M3 for the United States,MABMM301USM189S
+162,ICE BofAML US High Yield B Effective Yield,BAMLH0A2HYBEY
+163,"Trade Balance: Goods and Services, Balance of Payments Basis",BOPGSTB
+164,Median Household Income in the United States,MEHOINUSA646N
+165,Real Gross Private Domestic Investment,GPDIC1
+166,Interest Rate on Excess Reserves,IOER
+167,Civilian Labor Force,CLF16OV
+168,15-Year Fixed Rate Mortgage Average in the United States,MORTGAGE15US
+169,"Student Loans Owned and Securitized, Outstanding",SLOAS
+170,New One Family Houses Sold: United States,HSN1F
+171,Advance Retail Sales: Retail (Excluding Food Services),RSXFS
+172,"3-Month London Interbank Offered Rate (LIBOR), based on British Pound",GBP3MTD156N
+173,Moody's Seasoned Aaa Corporate Bond Yield Relative to Yield on 10-Year Treasury Constant Maturity,AAA10Y
+174,Manufacturers' New Orders: Durable Goods,DGORDER
+175,Producer Price Index by Industry: Plastics Material and Resins Manufacturing,PCU325211325211
+176,Federal Debt Held by Federal Reserve Banks,FDHBFRBN
+177,Mexico / U.S. Foreign Exchange Rate,DEXMXUS
+178,Personal Income,PI
+179,Consumer Price Index for All Urban Consumers: Medical Care,CPIMEDSL
+180,Manufacturing Sector: Real Output,OUTMS
+181,"5-Year Treasury Inflation-Indexed Security, Constant Maturity",DFII5
+182,Gross Domestic Product for Japan,JPNNGDP
+183,Gross Domestic Product for China,MKTGDPCNA646NWDB
+184,GDPNow,GDPNOW
+185,NASDAQ Composite Index,NASDAQCOM
+186,ICE BofAML Euro High Yield Index Option-Adjusted Spread,BAMLHE00EHYIOAS
+187,"Households and Nonprofit Organizations; Net Worth, Level",TNWBSHNO
+188,MZM Money Stock,MZM
+189,MZM Money Stock,MZMNS
+190,Disposable Personal Income,DSPI
+191,S&P/Case-Shiller CA-Los Angeles Home Price Index,LXXRSA
+192,Currency in Circulation,WCURCIR
+193,Reserve Balances with Federal Reserve Banks,WRESBAL
+194,Housing Affordability Index (Composite),COMPHAI
+195,Spot Crude Oil Price: West Texas Intermediate (WTI),WTISPLC
+196,Private Nonresidential Fixed Investment,PNFI
+197,Civilian Employment Level,CE16OV
+198,Real Exports of Goods and Services,EXPGSC1
+199,Civilian Labor Force Participation Rate: Women,LNS11300002
+200,Personal Consumption Expenditures: Durable Goods,PCDG
+201,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Germany,IRLTLT01DEM156N
+202,Commercial Real Estate Prices for United States,COMREPUSQ159N
+203,Trimmed Mean PCE Inflation Rate,PCETRIM12M159SFRBDAL
+204,Commercial Banks in the U.S.,USNUM
+205,St. Louis Fed Economic News Index: Real GDP Nowcast,STLENI
+206,Industrial Production: Manufacturing (NAICS),IPMAN
+207,Consumer Price Index for All Urban Consumers: Purchasing Power of the Consumer Dollar,CUUR0000SA0R
+208,"Loans and Leases in Bank Credit, All Commercial Banks",TOTLL
+209,"Overnight London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USDONTD156N
+210,Manufacturers' New Orders: Nondefense Capital Goods Excluding Aircraft,NEWORDER
+211,Government total expenditures,W068RCQ027SBEA
+212,St. Louis Adjusted Reserves,ADJRESSL
+213,Average Sales Price of Houses Sold for the United States,ASPUS
+214,Velocity of MZM Money Stock,MZMV
+215,Total Construction Spending,TTLCONS
+216,30-Year Conventional Mortgage Rate (DISCONTINUED),MORTG
+217,Federal Receipts as Percent of Gross Domestic Product,FYFRGDA188S
+218,Total Business: Inventories to Sales Ratio,ISRATIO
+219,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 48 Month Loan",TERMCBAUTO48NS
+220,"Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for United States",CRDQUSAPABIS
+221,Real Imports of Goods and Services,IMPGSCA
+222,"Delinquency Rate on Commercial and Industrial Loans, All Commercial Banks",DRBLACBS
+223,Total Savings Deposits at all Depository Institutions,SAVINGS
+224,Dow-Jones Industrial Stock Price Index for United States,M1109BUSM293NNBR
+225,Moving 12-Month Total Vehicle Miles Traveled,M12MTVUSM227NFWA
+226,ICE BofAML US High Yield B Option-Adjusted Spread,BAMLH0A2HYB
+227,Advance Real Retail and Food Services Sales,RRSFS
+228,Crude Birth Rate for the United States,SPDYNCBRTINUSA
+229,Net Interest Margin for all U.S. Banks,USNIM
+230,Net Percentage of Domestic Banks Tightening Standards for Commercial and Industrial Loans to Large and Middle-Market Firms,DRTSCILM
+231,Real Gross Domestic Product (DISCONTINUED),GDPC96
+232,6-Month Treasury Bill: Secondary Market Rate,DTB6
+233,"All Sectors; Debt Securities and Loans; Liability, Level",TCMDO
+234,"Producer Price Index by Commodity for Rubber and Plastic Products: Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and Ethylene Propylene",WPU07110224
+235,"Producer Price Index by Commodity for Rubber and Plastic Products: Synthetic Rubber, Including Styrene-Butadiene Rubber (SBR) and Ethylene Propylene",WPU071102
+236,Consumer Price Index for All Urban Consumers: Rent of primary residence,CUUR0000SEHA
+237,S&P/Case-Shiller NY-New York Home Price Index,NYXRSA
+238,Job Openings: Total Nonfarm,JTSJOL
+239,Percent Change of Gross Domestic Product,CPGDPAI
+240,Mortgage-backed securities held by the Federal Reserve: All Maturities (DISCONTINUED),MBST
+241,Unemployment Rate: Aged 15-64: All Persons for the United States,LRUN64TTUSQ156S
+242,Real Trade Weighted U.S. Dollar Index: Broad,TWEXBPA
+243,Population,POPTHM
+244,"Unemployment Rate: 20 years and over, Black or African American Men",LNS14000031
+245,"Delinquency Rate on Consumer Loans, All Commercial Banks",DRCLACBS
+246,Real Gross Domestic Product for United Kingdom,CLVMNACSCAB1GQUK
+247,South Korea / U.S. Foreign Exchange Rate,DEXKOUS
+248,Civilian Labor Force Participation Rate: Men,LNS11300001
+249,Brazil / U.S. Foreign Exchange Rate,DEXBZUS
+250,Global Price Index of All Commodities,PALLFNFINDEXQ
+251,Bank Prime Loan Rate Changes: Historical Dates of Changes and Rates,PRIME
+252,ICE BofAML US Corporate AA Effective Yield,BAMLC0A2CAAEY
+253,Consumer Price Index for Urban Wage Earners and Clerical Workers: All Items,CWUR0000SA0
+254,Federal Net Outlays as Percent of Gross Domestic Product,FYONGDA188S
+255,"Deposits, All Commercial Banks",DPSACBW027SBOG
+256,Consumer Price Index for All Urban Consumers: Food and Beverages,CPIFABSL
+257,ICE BofAML Emerging Markets Corporate Plus Index Option-Adjusted Spread,BAMLEMCBPIOAS
+258,Employment Population Ratio: 25 - 54 years,LNS12300060
+259,Rental Vacancy Rate for the United States,RRVRUSQ156N
+260,Consumer Price Index: All Items for China,CHNCPIALLMINMEI
+261,Natural Rate of Unemployment (Short-Term),NROUST
+262,Federal Funds Target Rate (DISCONTINUED),DFEDTAR
+263,Federal Funds Target Range - Lower Limit,DFEDTARL
+264,Average Weekly Hours of Production and Nonsupervisory Employees: Manufacturing,AWHMAN
+265,Producer Price Index by Commodity for Metals and Metal Products: Iron and Steel,WPU101
+266,Bank Credit of All Commercial Banks,TOTBKCR
+267,Consumer Price Index for All Urban Consumers: New vehicles,CUUR0000SETA01
+268,S&P/Case-Shiller WA-Seattle Home Price Index,SEXRNSA
+269,All-Transactions House Price Index for California,CASTHPI
+270,Global price of Brent Crude,POILBREUSDM
+271,"Mortgage Debt Outstanding, All holders",MDOAH
+272,Motor Vehicle Retail Sales: Heavy Weight Trucks,HTRUCKSSAAR
+273,India / U.S. Foreign Exchange Rate,EXINUS
+274,Private Residential Fixed Investment,PRFI
+275,Central Bank Assets for Euro Area (11-19 Countries),ECBASSETS
+276,Total Checkable Deposits,TCD
+277,Stock Market Capitalization to GDP for World (DISCONTINUED),DDDM011WA156NWDB
+278,Economic Policy Uncertainty Index for United States,USEPUINDXD
+279,Personal Consumption Expenditures: Nondurable Goods,PCND
+280,"Unemployment Rate: College Graduates: Bachelor's Degree and Higher, 25 years and over",LNU04027662
+281,Total Current Account Balance for the United States (DISCONTINUED),BPBLTT01USQ188S
+282,Total Current Account Balance for the United States (DISCONTINUED),BPBLTT01USQ637S
+283,Total Debt to Equity for United States,TOTDTEUSQ163N
+284,Return on Average Assets for all U.S. Banks,USROA
+285,Employment Cost Index: Wages and Salaries: Private Industry Workers,ECIWAG
+286,"Advance Retail Sales: Retail and Food Services, Total",RSAFS
+287,10-Year Swap Rate (DISCONTINUED),DSWP10
+288,Civilian Noninstitutional Population,CNP16OV
+289,"Condo Price Index for New York, New York",NYXRCSA
+290,Personal income per capita,A792RC0A052NBEA
+291,"Nikkei Stock Average, Nikkei 225",NIKKEI225
+292,Private Non-Farm Business Sector: Labor Productivity,MPU4910063
+293,Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj),CPATAX
+294,"Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Disbursements: To persons",W270RE1A156NBEA
+295,Consumer Debt Service Payments as a Percent of Disposable Personal Income,CDSP
+296,Nonfarm Business Sector: Real Compensation Per Hour,COMPRNFB
+297,Real Gross Domestic Product for Germany,CLVMNACSCAB1GQDE
+298,Percent of Employment in Agriculture in the United States (DISCONTINUED),USAPEMANA
+299,Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for Canada,NAEXKP01CAQ189S
+300,"Real Estate Loans, All Commercial Banks",REALLN
+301,Term Premium on a 10 Year Zero Coupon Bond,THREEFYTP10
+302,GDP-Based Recession Indicator Index,JHGDPBRINDX
+303,M2 for China,MYAGM2CNM189N
+304,Real Government Consumption Expenditures and Gross Investment,GCEC1
+305,Real Government Consumption Expenditures and Gross Investment,A822RO1Q156NBEA
+306,4-Week Treasury Bill: Secondary Market Rate,TB4WK
+307,Housing Inventory Estimate: Total Housing Units for the United States,ETOTALUSQ176N
+308,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for France,IRLTLT01FRM156N
+309,Continued Claims (Insured Unemployment),CCSA
+310,Total Construction Spending: Nonresidential,TLNRESCONS
+311,Share of Labour Compensation in GDP at Current National Prices for United States,LABSHPUSA156NRUG
+312,S&P/Case-Shiller MA-Boston Home Price Index,BOXRSA
+313,Federal government budget surplus or deficit (-),M318501A027NBEA
+314,Wilshire 5000 Full Cap Price Index,WILL5000PRFC
+315,Federal Debt Held by Foreign and International Investors,FDHBFIN
+316,Unemployment Rate: Black or African American,LNS14000006
+317,Gross Domestic Product for World (DISCONTINUED),MKTGDP1WA646NWDB
+318,Gross Domestic Product for World,NYGDPMKTPCDWLD
+319,Retail Money Funds,WRMFSL
+320,ICE BofAML US Corporate A Option-Adjusted Spread,BAMLC0A3CA
+321,Real Residential Property Prices for China,QCNR628BIS
+322,Return on Average Equity for all U.S. Banks,USROE
+323,Producer Price Index by Commodity for Final Demand: Finished Goods,WPSFD49207
+324,Nominal Potential Gross Domestic Product,NGDPPOT
+325,Overnight Bank Funding Rate,OBFR
+326,M2 for United States,MYAGM2USM052N
+327,Bank of Japan: Total Assets for Japan,JPNASSETS
+328,U.S. / Australia Foreign Exchange Rate,DEXUSAL
+329,Coincident Economic Activity Index for the United States,USPHCI
+330,Employment Rate: Aged 25-54: All Persons for the United States,LREM25TTUSM156S
+331,Employment Rate: Aged 25-54: All Persons for the United States,LREM25TTUSA156N
+332,S&P/Case-Shiller CA-San Diego Home Price Index,SDXRSA
+333,ICE BofAML US Corporate AA Option-Adjusted Spread,BAMLC0A2CAA
+334,Real Gross Domestic Product for Japan,JPNRGDPEXP
+335,Total Nonfarm Private Payroll Employment,NPPTTL
+336,Henry Hub Natural Gas Spot Price,MHHNGSP
+337,Consumer Price Index for All Urban Consumers: Apparel,CPIAPPSL
+338,3-Month AA Nonfinancial Commercial Paper Rate,CPN3M
+339,Real GDP at Constant National Prices for China,RGDPNACNA666NRUG
+340,"Total Revolving Credit Owned and Securitized, Outstanding",REVOLSL
+341,Federal Outlays: Interest as Percent of Gross Domestic Product,FYOIGDA188S
+342,Domestic Auto Production,DAUPSA
+343,Gross Private Saving,GPSAVE
+344,Personal saving as a percentage of disposable personal income,A072RC1Q156SBEA
+345,"Global price of LNG, Asia",PNGASJPUSDM
+346,"Amount Outstanding of Total Debt Securities in Non-Financial Corporations Sector, All Maturities, Residence of Issuer in United States",TDSAMRIAONCUS
+347,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Japan,IRLTLT01JPM156N
+348,All Employees: Mining and Logging: Coal Mining,CES1021210001
+349,"Consumer Loans: Credit Cards and Other Revolving Plans, All Commercial Banks",CCLACBW027SBOG
+350,S&P/Case-Shiller IL-Chicago Home Price Index,CHXRSA
+351,National income: Corporate profits before tax (without IVA and CCAdj),A053RC1Q027SBEA
+352,"Population, Total for United States",POPTOTUSA647NWDB
+353,"30-Year Treasury Inflation-Indexed Security, Constant Maturity",DFII30
+354,Personal Consumption Expenditures: Services,PCESV
+355,Personal Consumption Expenditures: Services,PCESVA
+356,ICE BofAML US Corp Master Total Return Index Value,BAMLCC0A0CMTRIV
+357,Current Price Gross Domestic Product in China,CHNGDPNQDSMEI
+358,E-Commerce Retail Sales,ECOMSA
+359,Global price of Copper,PCOPPUSDM
+360,Federal Debt Held by the Public,FYGFDPUN
+361,Balance on current account,IEABCA
+362,Consumer Price Index for All Urban Consumers: Housing,CPIHOSNS
+363,Shares of gross domestic product: Gross private domestic investment,A006RE1Q156NBEA
+364,Median Sales Price of Existing Homes,HOSMEDUSM052N
+365,M1 for the United States,MANMM101USA189S
+366,"Interest Rates, Discount Rate for China",INTDSRCNM193N
+367,S&P/Case-Shiller 10-City Composite Home Price Index,SPCS10RSA
+368,"7-Year Treasury Inflation-Indexed Security, Constant Maturity",DFII7
+369,Not in Labor Force,LNS15000000
+370,Average (Mean) Duration of Unemployment,UEMPMEAN
+371,Vehicle Miles Traveled,TRFVOLUSM227NFWA
+372,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Sweden,IRLTLT01SEM156N
+373,"Unemployment Rate in Los Angeles County, CA",CALOSA7URN
+374,Capital Stock at Constant National Prices for United States,RKNANPUSA666NRUG
+375,"Households; Owners' Equity in Real Estate, Level",OEHRENWBSHNO
+376,"Charge-Off Rate on Credit Card Loans, Top 100 Banks Ranked by Assets",CORCCT100S
+377,Mortgage Debt Service Payments as a Percent of Disposable Personal Income,MDSP
+378,Real Residential Property Prices for United States,QUSR628BIS
+379,Real Residential Property Prices for United States,QUSR368BIS
+380,"Interest Rates, Discount Rate for Japan",INTDSRJPM193N
+381,S&P/Case-Shiller CO-Denver Home Price Index,DNXRSA
+382,"Trade Weighted U.S. Dollar Index: Other Important Trading Partners, Goods",DTWEXO
+383,"3-Month London Interbank Offered Rate (LIBOR), based on Euro",EUR3MTD156N
+384,"Commercial Bank Interest Rate on Credit Card Plans, All Accounts",TERMCBCCALLNS
+385,Producer Price Index by Industry: Total Manufacturing Industries,PCUOMFGOMFG
+386,All Employees: Government: Federal,CES9091000001
+387,Exports of Goods and Services,EXPGS
+388,Net domestic investment: Private: Domestic business,W790RC1Q027SBEA
+389,30-year Breakeven Inflation Rate,T30YIEM
+390,"Delinquency Rate on All Loans, All Commercial Banks",DRALACBS
+391,Privately Owned Housing Starts: 1-Unit Structures,HOUST1F
+392,Producer Price Index by Commodity for Chemicals and Allied Products: Carbon Black,WPU06790918
+393,5-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB5YR
+394,5/1-Year Adjustable Rate Mortgage Average in the United States,MORTGAGE5US
+395,"Motor Vehicle Loans Owned and Securitized, Outstanding",MVLOAS
+396,6-Month Treasury Constant Maturity Rate,DGS6MO
+397,Federal Government: Current Expenditures,FGEXPND
+398,Federal Minimum Hourly Wage for Nonfarm Workers for the United States,FEDMINNFRWG
+399,S&P/Case-Shiller TX-Dallas Home Price Index,DAXRNSA
+400,Net migration for the United States,SMPOPNETMUSA
+401,"Delinquency Rate on Commercial Real Estate Loans (Excluding Farmland), Booked in Domestic Offices, All Commercial Banks",DRCRELEXFACBS
+402,Gross Domestic Product (Euro/ECU series) for Euro Area (19 Countries),EUNNGDP
+403,Nonperforming Total Loans (past due 90+ days plus nonaccrual) to Total Loans,NPTLTL
+404,"Employment Level: Part-Time for Economic Reasons, All Industries",LNS12032194
+405,Imports of Goods and Services,IMPGS
+406,Nonfinancial Corporate Business; Credit Market Debt as a Percentage of the Market Value of Corporate Equities,NCBCMDPMVCE
+407,Consumer Price Index of All Items in Japan,JPNCPIALLMINMEI
+408,Consumer Price Index of All Items in Japan,JPNCPIALLQINMEI
+409,20-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB20YR
+410,Gross domestic product per capita,A939RC0A052NBEA
+411,Federal Debt Held by the Public as Percent of Gross Domestic Product,FYGFGDQ188S
+412,5-Year Swap Rate (DISCONTINUED),MSWP5
+413,Personal consumption expenditures excluding food and energy,DPCCRC1M027SBEA
+414,Unemployment Rate in California,CAUR
+415,St. Louis Source Base,WSBASE
+416,ICE BofAML US Corporate 7-10 Year Effective Yield,BAMLC4A0C710YEY
+417,ICE BofAML US Corporate AAA Option-Adjusted Spread,BAMLC0A1CAAA
+418,Consumer Price Index of All Items in the United Kingdom,GBRCPIALLMINMEI
+419,S&P/Case-Shiller AZ-Phoenix Home Price Index,PHXRNSA
+420,Chicago Fed National Financial Conditions Leverage Subindex,NFCILEVERAGE
+421,All-Transactions House Price Index for Florida,FLSTHPI
+422,"Interest Rates, Government Securities, Government Bonds for India",INTGSBINM193N
+423,Small Time Deposits - Total,WSMTIME
+424,Truck Tonnage,TRUCKD11
+425,Real Broad Effective Exchange Rate for United States,RBUSBIS
+426,3-Month AA Financial Commercial Paper Rate,DCPF3M
+427,San Francisco Tech Pulse,SFTPINDM114SFRBSF
+428,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Ireland,IRLTLT01IEM156N
+429,"Households and Nonprofit Organizations; Consumer Credit; Liability, Level",HCCSDODNS
+430,Total Factor Productivity at Constant National Prices for United States,RTFPNAUSA632NRUG
+431,Working Age Population: Aged 15-64: All Persons for Japan,LFWA64TTJPM647S
+432,Working Age Population: Aged 15-64: All Persons for Japan,LFWA64TTJPA647S
+433,ICE BofAML US Corporate A Effective Yield,BAMLC0A3CAEY
+434,Total Gross Domestic Product for Texas,TXNGSP
+435,Global price of WTI Crude,POILWTIUSDM
+436,Household Financial Obligations as a percent of Disposable Personal Income,FODSP
+437,All-Transactions House Price Index for New York,NYSTHPI
+438,"Balance on Current Account, NIPA's",NETFI
+439,Producer Price Index by Industry: Industrial Sand Mining: Hydraulic Fracturing Sand,PCU21232221232291
+440,Real Median Family Income in the United States,MEFAINUSA672N
+441,Nonfarm Business Sector: Labor Share,PRS85006173
+442,Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for Australia,NAEXKP01AUQ657S
+443,Median Consumer Price Index,MEDCPIM158SFRBCLE
+444,Total Business Inventories,BUSINV
+445,10-Year High Quality Market (HQM) Corporate Bond Par Yield,HQMCB10YRP
+446,U.S Individual Income Tax: Tax Rates for Regular Tax: Highest Bracket,IITTRHB
+447,CBOE 10-Year Treasury Note Volatility Futures,VXTYN
+448,Russell 2000® Price Index,RU2000PR
+449,Quits: Total Nonfarm,JTSQUR
+450,All Employees: Construction,USCONS
+451,Venezuela / U.S. Foreign Exchange Rate,EXVZUS
+452,Households and Nonprofit Organizations; Net Worth as a Percentage of Disposable Personal Income,HNONWPDPI
+453,Labor Force Participation Rate: Black or African American,LNS11300006
+454,All Employees: Government,USGOVT
+455,Average Weekly Hours of All Employees: Total Private,AWHAETP
+456,Commercial Paper Outstanding,COMPOUT
+457,Commercial Paper Outstanding,DTBSPCKNMM
+458,Chicago Fed National Activity Index,CFNAI
+459,"Compensation of Employees, Received: Wage and Salary Disbursements",A576RC1
+460,Number of Listed Companies for United States,DDOM01USA644NWDB
+461,Real Gross Domestic Product for Italy,CLVMNACSCAB1GQIT
+462,Chicago Fed Adjusted National Financial Conditions Index,ANFCI
+463,"Interest Rates, Discount Rate for Euro Area",INTDSREZQ193N
+464,Average Hourly Earnings of Production and Nonsupervisory Employees: Manufacturing,CES3000000008
+465,Existing Home Sales: Housing Inventory,HOSINVUSM495N
+466,"Producer Price Index by Industry: General Freight Trucking, Long-Distance Truckload",PCU484121484121
+467,Real Gross National Product,GNPC96
+468,"Nonfinancial corporate business; corporate equities; liability, Level",NCBEILQ027S
+469,Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for India,NAEXKP01INQ657S
+470,Demand Deposits: Total,DEMDEPSL
+471,"Federal government; consumer credit, student loans; asset, Level",FGCCSAQ027S
+472,Real Total Gross Domestic Product for California,CARGSP
+473,Moody's Seasoned Baa Corporate Bond Minus Federal Funds Rate,BAAFFM
+474,"Unemployment Rate in San Francisco County/City, CA",CASANF0URN
+475,Global price of Wheat,PWHEAMTUSDM
+476,Gross National Income for United States,MKTGNIUSA646NWDB
+477,Federal government current expenditures: Interest payments,A091RC1Q027SBEA
+478,Industrial Production: Mining: Crude oil,IPG211111CN
+479,ICE BofAML US Corporate Master Effective Yield,BAMLC0A0CMEY
+480,Shares of gross domestic product: Personal consumption expenditures,DPCERE1Q156NBEA
+481,Housing Inventory Estimate: Vacant Housing Units for the United States,EVACANTUSQ176N
+482,S&P/Case-Shiller NV-Las Vegas Home Price Index,LVXRNSA
+483,S&P/Case-Shiller DC-Washington Home Price Index,WDXRSA
+484,Total Households,TTLHH
+485,Consumer Price Index for All Urban Consumers: Gasoline (all types),CUUR0000SETB01
+486,GINI Index for Japan,SIPOVGINIJPN
+487,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Australia,IRLTLT01AUM156N
+488,Producer Price Index by Commodity for Final Demand: Finished Goods Less Foods and Energy,WPSFD4131
+489,Switzerland / U.S. Foreign Exchange Rate,DEXSZUS
+490,Chicago Fed Survey of Business Conditions: Current Capital Spending Index,CFSBCCAPX
+491,30-Year High Quality Market (HQM) Corporate Bond Spot Rate,HQMCB30YR
+492,Real Gross Domestic Product for France,CLVMNACSCAB1GQFR
+493,Malaysia / U.S. Foreign Exchange Rate,DEXMAUS
+494,Capacity Utilization: Manufacturing (NAICS),MCUMFN
+495,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the United Kingdom,IRLTLT01GBM156N
+496,All Employees: Total Private Industries,USPRIV
+497,S&P/Case-Shiller FL-Miami Home Price Index,MIXRNSA
+498,Exports: Value Goods for China,XTEXVA01CNM667S
+499,"Producer Price Index by Commodity for Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips",WPU085
+500,"Producer Price Index by Commodity for Lumber and Wood Products: Logs, Bolts, Timber, Pulpwood and Wood Chips",WPU085105
+501,Shares of gross domestic product: Net exports of goods and services,A019RE1A156NBEA
+502,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Canada,IRLTLT01CAM156N
+503,Primary Credit Rate,DPCREDIT
+504,Reserve Adjustment Magnitude (RAM),RAM
+505,Gross Government Saving,GGSAVE
+506,"Consumer Price Index: Total, All Items for Canada",CPALCY01CAM661N
+507,"All-Transactions House Price Index for San Jose-Sunnyvale-Santa Clara, CA (MSA)",ATNHPIUS41940Q
+508,Gross Federal Debt,FYGFD
+509,Producer Price Index by Commodity for Chemicals and Allied Products: Industrial Chemicals,WPU061
+510,Bank Non-Performing Loans to Gross Loans for United States,DDSI02USA156NWDB
+511,"Producer Price Index by Commodity for Hides, Skins, Leather, and Related Products: Hides and Skins, Including Cattle",WPU041
+512,"Finance Rate on Consumer Installment Loans at Commercial Banks, New Autos 60 Month Loan",RIFLPBCIANM60NM
+513,Total Reserve Balances Maintained with Federal Reserve Banks,RESBALNS
+514,Personal consumption expenditures (implicit price deflator),DPCERD3Q086SBEA
+515,Median Household Income in California,MEHOINUSCAA646N
+516,Industrial Production: Electric and gas utilities,IPG2211A2N
+517,ICE BofAML US Corporate 3-5 Year Effective Yield,BAMLC2A0C35YEY
+518,US Regular All Formulations Gas Price,GASREGW
+519,"Finance Rate on Personal Loans at Commercial Banks, 24 Month Loan",TERMCBPER24NS
+520,GDP Implicit Price Deflator in United States,USAGDPDEFAISMEI
+521,Bank of England Balance Sheet - Total Assets in the United Kingdom,BOEBSTAUKA
+522,CBOE S&P 500 3-Month Volatility Index,VXVCLS
+523,U.S. Net International Investment Position,IIPUSNETIQ
+524,Household Estimates,TTLHHM156N
+525,Germany / U.S. Foreign Exchange Rate (DISCONTINUED),EXGEUS
+526,ICE BofAML High Yield Emerging Markets Corporate Plus Sub-Index Option-Adjusted Spread,BAMLEMHBHYCRPIOAS
+527,S&P/Case-Shiller GA-Atlanta Home Price Index,ATXRNSA
+528,Federal Government Current Receipts,FGRECPT
+529,Travelers Checks Outstanding,WTCSL
+530,Real Gross Domestic Product (Euro/ECU series) for Euro area (19 countries),CLVMEURSCAB1GQEA19
+531,Personal Saving,PSAVE
+532,"All-Transactions House Price Index for Houston-The Woodlands-Sugar Land, TX (MSA)",ATNHPIUS26420Q
+533,Consumer Loans at All Commercial Banks,CONSUMER
+534,Change in Labor Market Conditions Index (DISCONTINUED),FRBLMCI
+535,"Interbank Loans, All Commercial Banks (DISCONTINUED)",IBLACBW027NBOG
+536,Percent of Employment in Manufacturing in the United States (DISCONTINUED),USAPEFANA
+537,Thailand / U.S. Foreign Exchange Rate,DEXTHUS
+538,"Households and Nonprofit Organizations; Credit Market Instruments; Liability, Level",CMDEBT
+539,Industrial Production: Total index,IPB50001N
+540,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for Italy,IRLTLT01ITM156N
+541,Auto Inventory/Sales Ratio,AISRSA
+542,Gross Output of All Industries,GOAI
+543,Producer Price Index by Commodity for Textile Products and Apparel: Polyester Fibers,WPU031502411
+544,Real Private Nonresidential Fixed Investment,PNFIC1
+545,Nonfarm Business Sector: Unit Labor Cost,ULCNFB
+546,M1 for China,MYAGM1CNM189N
+547,Constant GDP per capita for China,NYGDPPCAPKDCHN
+548,Stock Market Capitalization to GDP for China,DDDM01CNA156NWDB
+549,"Real Estate Loans: Commercial Real Estate Loans, All Commercial Banks",CREACBM027NBOG
+550,Motor Vehicle Retail Sales: Domestic Autos,DAUTOSA
+551,OECD based Recession Indicators for the United States from the Peak through the Trough,USARECDM
+552,Total Population: All Ages including Armed Forces Overseas,POP
+553,Gross Fixed Capital Formation in United States,USAGFCFQDSMEI
+554,"FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Midpoint",GDPC1CTM
+555,Gross Domestic Product for United Kingdom,UKNGDP
+556,Consumer Price Index: All Items for India,INDCPIALLMINMEI
+557,Real Personal Consumption Expenditures: Durable Goods,PCDGCC96
+558,Hourly Earnings: Manufacturing for the United States,LCEAMN01USM659S
+559,"Inflation, consumer prices for Japan",FPCPITOTLZGJPN
+560,Ultra-Low-Sulfur No. 2 Diesel Fuel Prices: U.S. Gulf Coast,WDFUELUSGULF
+561,Total Business Sales,TOTBUSSMSA
+562,Producer Price Index by Industry: Corrugated and Solid Fiber Box Manufacturing: Corrugated Shipping Containers for Paper and Allied Products,PCU32221132221102
+563,3-Month Treasury Bill Minus Federal Funds Rate,TB3SMFFM
+564,"Fertility Rate, Total for the United States",SPDYNTFRTINUSA
+565,Consumer Price Index for All Urban Consumers: Used cars and trucks,CUSR0000SETA02
+566,Personal Consumption Expenditures (PCE) Excluding Food and Energy (chain-type price index),DPCCRV1Q225SBEA
+567,S&P/Case-Shiller OR-Portland Home Price Index,POXRSA
+568,Purchase Only House Price Index for the United States,HPIPONM226S
+569,Unemployment Rate: Women,LNS14000002
+570,Gross Federal Debt as Percent of Gross Domestic Product,GFDGDPA188S
+571,Value of Manufacturers' New Orders for Consumer Goods: Consumer Durable Goods Industries,ACDGNO
+572,Employment Cost Index: Total compensation: All Civilian,ECIALLCIV
+573,State and Local Bonds - Bond Buyer Go 20-Bond Municipal Bond Index (DISCONTINUED),WSLB20
+574,3-Month or 90-day Rates and Yields: Treasury Securities for China,IR3TTS01CNM156N
+575,Consumer Price Index for All Urban Consumers: Transportation,CPITRNSL
+576,"Households and Nonprofit Organizations; Home Mortgages; Liability, Level",HHMSDODNS
+577,ICE BofAML US Corporate 1-3 Year Effective Yield,BAMLC1A0C13YEY
+578,Mortgage Debt Outstanding by Type of Holder: Individuals and Other Holders,MDOTHIOH
+579,Russell 3000® Total Market Index,RU3000TR
+580,Taiwan / U.S. Foreign Exchange Rate,DEXTAUS
+581,"2-Month London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USD2MTD156N
+582,State Minimum Wage Rate for Massachusetts,STTMINWGMA
+583,Real Personal Income,RPI
+584,"National Rate on Non-Jumbo Deposits (less than $100,000): 12 Month CD",CD12NRNJ
+585,"KC Fed Labor Market Conditions Index, Momentum Indicator",FRBKCLMCIM
+586,Monetary Base; Currency in Circulation,MBCURRCIR
+587,Assets: Securities Held Outright: Mortgage-Backed Securities,WSHOMCB
+588,Wilshire 5000 Price Index,WILL5000PR
+589,Producer Price Index by Commodity for Farm Products: Almonds,WPU01190102
+590,Federal Minimum Hourly Wage for Farm Workers for the United States,FEDMINFRMWG
+591,Kansas City Financial Stress Index,KCFSI
+592,Number of Civilians Unemployed for 27 Weeks and Over,UEMP27OV
+593,"20-Year Treasury Inflation-Indexed Security, Constant Maturity",DFII20
+594,Household Debt to GDP for Canada,HDTGPDCAQ163N
+595,Unemployment Rate in the United Kingdom,UNRTUKA
+596,Freight Transportation Services Index,TSIFRGHT
+597,Consumer Price Index of All Items in Germany,DEUCPIALLMINMEI
+598,"3-Month London Interbank Offered Rate (LIBOR), based on Japanese Yen",JPY3MTD156N
+599,Global price of Iron Ore,PIORECRUSDM
+600,Consumer Price Index for All Urban Consumers: Food at home,CUSR0000SAF11
+601,"Interest Rates, Government Securities, Treasury Bills for Brazil",INTGSTBRM193N
+602,"Total Credit to Non-Financial Corporations, Adjusted for Breaks, for United States",QUSNAM770A
+603,Gross National Income for Nigeria,MKTGNINGA646NWDB
+604,U.S. Imports of Goods by Customs Basis from China,IMPCH
+605,Retailers Sales,RETAILMPCSMSA
+606,Employed full time: Median usual weekly real earnings: Wage and salary workers: 16 years and over: Men,LES1252881900Q
+607,Global price of Corn,PMAIZMTUSDM
+608,"1-Week London Interbank Offered Rate (LIBOR), based on U.S. Dollar",USD1WKD156N
+609,Employment Rate: Aged 25-54: Males for the United States,LREM25MAUSA156S
+610,Federal government current transfer payments: Government social benefits: To persons,B087RC1Q027SBEA
+611,"Gross domestic income: Compensation of employees, paid: Wages and salaries",A4102C1Q027SBEA
+612,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for New Zealand,IRLTLT01NZM156N
+613,ICE BofAML US High Yield CCC or Below Total Return Index Value,BAMLHYH0A3CMTRIV
+614,Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj),CPROFIT
+615,"Propane Prices: Mont Belvieu, Texas",DPROPANEMBTX
+616,Real M2 Money Stock,M2REAL
+617,Real personal consumption expenditures per capita,A794RX0Q048SBEA
+618,Federal Government: Tax Receipts on Corporate Income,FCTAX
+619,"Delinquency Rate on Credit Card Loans, Top 100 Banks Ranked by Assets",DRCCLT100N
+620,Median Family Income in the United States,MEFAINUSA646N
+621,Total Equity to Total Assets for Banks,EQTA
+622,"Producer Price Index by Commodity for Metals and Metal Products: Steel Pipe and Tube, Stainless Steel",WPU10170674
+623,Harmonized Index of Consumer Prices: All Items for Euro area (19 countries),CP0000EZ19M086NEST
+624,Total Construction Spending: Residential,TLRESCONS
+625,GINI Index for India,SIPOVGINIIND
+626,M2 for Japan,MYAGM2JPM189S
+627,Global price of Aluminum,PALUMUSDM
+628,Consumer Opinion Surveys: Confidence Indicators: Composite Indicators: OECD Indicator for the United States,CSCICP03USM665S
+629,Wilshire 5000 Total Market Index,WILL5000IND
+630,Balance on capital account,IEABCP
+631,GINI Index for Brazil,SIPOVGINIBRA
+632,Nonfinancial Corporate Business; Credit Market Instruments; Liability,BCNSDODNS
+633,"Life Expectancy at Birth, Total for the United States",SPDYNLE00INUSA
+634,Consumer Price Index for All Urban Consumers: Energy,CPIENGSL
+635,"Interest Rates, Discount Rate for India",INTDSRINM193N
+636,90-Day AA Nonfinancial Commercial Paper Interest Rate,RIFSPPNAAD90NB
+637,Unemployment Rate: Aged 15 and Over: All Persons for Canada,LRUNTTTTCAQ156S
+638,Per Capita Personal Income in California,CAPCPI
+639,Hires: Total Nonfarm,JTSHIL
+640,"Producer Price Index by Commodity for Pulp, Paper, and Allied Products: Corrugated Paperboard in Sheets and Rolls, Lined and Unlined",WPU091405
+641,"FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoint",PCECTPICTM
+642,Real Broad Effective Exchange Rate for China,RBCNBIS
+643,Value of Manufacturers' New Orders for All Manufacturing Industries,AMTMNO
+644,Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment,Y033RX1Q020SBEA
+645,Constant GDP per capita for the United States,NYGDPPCAPKDUSA
+646,Bank Capital to Total Assets for United States,DDSI03USA156NWDB
+647,Sticky Price Consumer Price Index less Food and Energy,CORESTICKM159SFRBATL
+648,Overnight Reverse Repurchase Agreements: Treasury Securities Sold by the Federal Reserve in the Temporary Open Market Operations,RRPONTSYD
+649,Mortgage Delinquency Rates for United States,Q09084USQ507NNBR
+650,"Commercial Bank Interest Rate on Credit Card Plans, Accounts Assessed Interest",TERMCBCCINTNS
+651,"Income Gini Ratio for Households by Race of Householder, All Races",GINIALLRH
+652,"Interest Rates, Discount Rate for Turkey",INTDSRTRM193N
+653,ICE BofAML High Yield Emerging Markets Corporate Plus Sub-Index Effective Yield,BAMLEMHBHYCRPIEY
+654,Nonfarm Business Sector: Average Weekly Hours,PRS85006022
+655,"Real Estate Loans: Revolving Home Equity Loans, All Commercial Banks",RHEACBW027SBOG
+656,Gross National Income for Philippines,MKTGNIPHA646NWDB
+657,South Africa / U.S. Foreign Exchange Rate,DEXSFUS
+658,"Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median",FEDTARMDLR
+659,"Delinquency Rate on Credit Card Loans, Banks Not Among the 100 Largest in Size (By Assets)",DRCCLOBS
+660,3-Month or 90-day Rates and Yields: Interbank Rates for the United States,IR3TIB01USM156N
+661,Global price of Sunflower Oil,PSUNOUSDM
+662,Active Population: Aged 25-54: All Persons for the United States,LFAC25TTUSA647S
+663,ICE BofAML US Corporate 15+ Year Effective Yield,BAMLC8A0C15PYEY
+664,Gross Domestic Income,GDI
+665,Constant GDP per capita for Japan,NYGDPPCAPKDJPN
+666,Unemployment Rate in Texas,TXUR
+667,"Unemployment Rate in Las Vegas-Henderson-Paradise, NV (MSA)",LASV832URN
+668,Special Unemployment Rate: Unemployed and Discouraged Workers,U4RATE
+669,"Crude Oil Exports for Iran, Islamic Republic of",IRNNXGOCMBD
+670,"Producer Price Index by Commodity for Metals and Metal Products: Steel Wire, Stainless Steel",WPU10170502
+671,Gross Domestic Product for Germany,CPMNACSCAB1GQDE
+672,"1-Month London Interbank Offered Rate (LIBOR), based on British Pound",GBP1MTD156N
+673,Registered Unemployment Rate for Germany,LMUNRRTTDEQ156S
+674,Total Gross Domestic Product for Illinois,ILNGSP
+675,Total Reserves excluding Gold for China,TRESEGCNM052N
+676,General government gross debt for China,GGGDTACNA188N
+677,S&P/Case-Shiller 20-City Home Price Sales Pair Counts,SPCS20RPSNSA
+678,Civilian Labor Force Participation Rate: 16 to 19 years,LNS11300012
+679,Real Net Exports of Goods and Services,NETEXC
+680,Import Price Index (End Use): All commodities,IR
+681,Average Annual Hours Worked by Persons Engaged for United States,AVHWPEUSA065NRUG
+682,Unemployment Level: Men,LNS13000001
+683,Long-Term Government Bond Yields: 10-year: Main (Including Benchmark) for the Euro Area,IRLTLT01EZM156N
+684,Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for Mexico,NAEXKP01MXQ657S
+685,Future Capital Expenditures; Diffusion Index for FRB - Philadelphia District,CEFDFSA066MSFRBPHI
+686,"Charge-Off Rate on Credit Card Loans, All Commercial Banks",CORCCACBS
+687,Disposable Personal Income: Per capita: Current dollars,A229RC0
+688,"Inflation, consumer prices for Argentina",FPCPITOTLZGARG
+689,Capacity Utilization: Durable Manufacturing: Iron and steel products,CAPUTLG3311A2S
+690,Real GDP per Capita in the Republic of Korea (South Korea) (DISCONTINUED),KORRGDPC
+691,NASDAQ 100 Index,NASDAQ100
+692,New Privately-Owned Housing Units Completed: Total,COMPUTSA
+693,ICE BofAML Euro High Yield Index Total Return Index Value,BAMLHE00EHYITRIV
+694,Producer Price Index by Industry: Other Basic Inorganic Chemical Manufacturing: Sodium Hydroxide (Caustic Soda) (DISCONTINUED),PCU32518032518014
+695,S&P/Case-Shiller MN-Minneapolis Home Price Index,MNXRSA
+696,"Total Credit to Private Non-Financial Sector, Adjusted for Breaks, for China",CRDQCNAPABIS
+697,Real Broad Effective Exchange Rate for Turkey,RBTRBIS
+698,Real Gross Domestic Product (Euro/ECU series) for European Union (28 countries),CLVMEURSCAB1GQEU28
+699,Reverse repurchase agreements held by the Federal Reserve: All Maturities (DISCONTINUED),RREPT
+700,"National Rate on Non-Jumbo Deposits (less than $100,000): Savings",SAVNRNJ
+701,Producer Price Index by Commodity for Machinery and Equipment: Construction Machinery and Equipment,WPS112
+702,Federal Outlays: Interest,FYOINT
+703,GINI Index for Mexico,SIPOVGINIMEX
+704,Retailers: Inventories to Sales Ratio,RETAILIRSA
+705,Total Gross Domestic Product for Colorado,CONGSP
+706,"Interest Rates, Government Securities, Treasury Bills for Japan",INTGSTJPM193N
+707,Crude Birth Rate for India,SPDYNCBRTININD
+708,Total Gross Domestic Product for Florida,FLNGSP
+709,"Shares of gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Profits after tax with inventory valuation and capital consumption adjustments",W273RE1A156NBEA
+710,Required Reserves of Depository Institutions,REQRESNS
+711,Federal government total expenditures,W019RCQ027SBEA
+712,Number of Bank Branches for United States,DDAI02USA643NWDB
+713,Gross Domestic Product by Expenditure in Constant Prices: Total Gross Domestic Product for Brazil,NAEXKP01BRQ652S
+714,"Unemployment Rate: High School Graduates, No College, 25 years and over",LNS14027660
+715,"3-Month London Interbank Offered Rate (LIBOR), based on Swiss Franc",CHF3MTD156N
+716,Hong Kong / U.S. Foreign Exchange Rate,DEXHKUS
+717,Gross Saving,GSAVE
+718,Population Growth for the United States,SPPOPGROWUSA
+719,Total Factor Productivity Level at Current Purchasing Power Parities for United States,CTFPPPUSA669NRUG
+720,Total Gross Domestic Product for New York,NYNGSP
