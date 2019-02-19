@@ -5,7 +5,8 @@ from data_modifier import *
 import matplotlib.pyplot as plt
 import quandl
 
-quandl.ApiConfig.api_key = "SuYz6Bb9e3Bx4CRGZdJh"
+## you need quandl API key
+quandl.ApiConfig.api_key = "Your api key"
 
 def us_recession(start, end):
     recession = pd.read_csv('us_recession.csv')
